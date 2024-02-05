@@ -4,3 +4,7 @@
 .Ruserdata
 .pdf
 .gitignore
+.Rdata
+.httr-oauth
+.DS_Store
+.quarto
