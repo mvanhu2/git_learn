@@ -2,7 +2,7 @@
 title: "RENDERMERGENCY!!!!!"
 author: "MVH"
 format: html
-editor: visual
+editor: source
 ---
 
 ```{r}
@@ -15,4 +15,10 @@ library(tidymodels)
 ```{r}
 
 
+
+
+
+
 ```
+
+> Alea has conquered this file!
